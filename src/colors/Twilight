@@ -1,0 +1,21 @@
+background      = #141421
+foreground      = #F8F8F2
+cursor          = #FFCC00
+
+color0  = #1E1E2E
+color1  = #FF5370
+color2  = #C3E88D
+color3  = #FFCB6B
+color4  = #82AAFF
+color5  = #C792EA
+color6  = #89DDFF
+color7  = #D0D0D0
+
+color8  = #434758
+color9  = #FF6E6E
+color10 = #B9F6CA
+color11 = #FFD580
+color12 = #9CC4FF
+color13 = #E1ACFF
+color14 = #A3F7FF
+color15 = #FFFFFF

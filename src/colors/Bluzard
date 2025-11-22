@@ -1,0 +1,25 @@
+# Background & Foreground
+background=#182a47
+foreground=#bdbdbd
+cursor=#f8f8f0
+
+# Normal colors (color0–color7)
+color0=#212121
+color1=#801f27
+color2=#1f6129
+color3=#8c8f3d
+color4=#22228f
+color5=#672696
+color6=#248391
+color7=#bdbdbd
+
+# Bright colors (color8–color15)
+color8=#454545
+color9=#cc3743
+color10=#39a349
+color11=#c3c752
+color12=#3131d4
+color13=#9332d9
+color14=#2eb5c9
+color15=#ffffff
+

@@ -1,0 +1,27 @@
+# Monokai Pro Theme for Termux
+
+# Background & Foreground
+background=#2d2a2e
+foreground=#f8f8f2
+cursor=#f8f8f0
+
+# Normal colors (color0–color7)
+color0=#1d1a1e
+color1=#ff6188
+color2=#a9dc76
+color3=#ffd866
+color4=#78dce8
+color5=#ab9df2
+color6=#78dce8
+color7=#f8f8f2
+
+# Bright colors (color8–color15)
+color8=#817c87
+color9=#ff6188
+color10=#a9dc76
+color11=#ffd866
+color12=#78dce8
+color13=#ab9df2
+color14=#78dce8
+color15=#ffffff
+
